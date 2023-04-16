@@ -1,0 +1,12 @@
+.header{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.logo{
+
+    width: 5%;
+    height: 50%;
+}
